@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div className='neutral-900 border'>
+      <div className='bg-neutral-900'>
         <Header />
       </div>
     </>
